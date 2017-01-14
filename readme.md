@@ -21,5 +21,5 @@ In Alfred, type `vol`, <kbd>Space</kbd>, and volume(`0~100`).
 
 ## License
 
-MIT © [](http://importre.com)
+MIT © [Jaewe Heo](http://importre.com)
 
