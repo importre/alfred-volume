@@ -1,6 +1,6 @@
 # <div align="center"><img src="./icon.png" width=256><br>alfred-volume</div>
 
-> :loud-sound: Set the sound output volume
+> :loud_sound: Set the sound output volume
 
 
 ## Install
