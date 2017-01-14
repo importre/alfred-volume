@@ -1,6 +1,6 @@
 {
   "name": "alfred-volume",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Set the sound output volume",
   "license": "MIT",
   "repository": "importre/alfred-volume",
@@ -48,4 +48,3 @@
     }
   }
 }
-
